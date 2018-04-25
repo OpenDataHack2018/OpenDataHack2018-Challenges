@@ -25,7 +25,7 @@ Can you think of any funky and catchy ideas with climate data? Do you want to he
 <b>Submit your Hack-Out Challenge ideas <a href="https://github.com/OpenDataHack2018/OpenDataHack2018-Brainstorming/issues">here</a></b> and start building the blocks of your project with other data hackers!
 
 </ul>
-<P></P>
+<P><hr></P>
 <P>
 For full details on the event and <b>Registration (by 20th May 2018)</b>, go to: <a href="http://events.ecmwf.int.e/OpenDataHack2018">http://events.ecmwf.int.e/OpenDataHack2018</a></P>
 
