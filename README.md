@@ -1,10 +1,10 @@
-# OpenDataHack2018-Brainstorming
+# OpenDataHack2018-Challenges
 
 <center><img src=https://github.com/OpenDataHack2018/OpenDataHack2018-Brainstorming/blob/master/Hack-PostcardFront.jpg></center>
 
-<h2>Ahead of #OpenDataHack2018 @CopernicusECMWF, submit and discuss your ideas with other OpenDataHackers and get a team ready to hack on 9-10 June 2018 at ECMWF! </h2>
+<h2>Ahead of #OpenDataHack2018 @CopernicusECMWF, submit and discuss your ideas or challenges with other OpenDataHackers and get a team ready to hack on 9-10 June 2018 at ECMWF!</h2>
 
-Your ideas should fall within one of the following categories:
+Your ideas and challenges should fall within one of the following categories:
 <ul>
 <li><h3>Hack-Data</h3>
 
