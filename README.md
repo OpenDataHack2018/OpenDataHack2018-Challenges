@@ -4,6 +4,14 @@
 
 <h2>Ahead of #OpenDataHack2018 @CopernicusECMWF, submit and discuss your ideas or challenges with other OpenDataHackers and get a team ready to hack on 9-10 June 2018 at ECMWF!</h2>
 
+<b>Brief Guidelines:</b>
+<ol>
+<li><a href="https://github.com/OpenDataHack2018/OpenDataHack2018-Brainstorming/issues">Submit your idea as an Issue</a> in the OpenDataHack2018-Challenges repository
+<li>Briefly <b>describe your idea</b>
+<li><b>Describe what you need</b> to realise the challenge e.g. how many people needed in the team, role description of team members, complimentary skill sets needed — e.g coders/software developers, designer (graphics/engineer), technologist, a project manager, an innovator), interests, etc....
+<li>A moderator will then label your Issue to facilitate other participants finding your proposed challenge.
+</ol>
+
 Your ideas and challenges should fall within one of the following categories:
 <ul>
 <li><h3>Hack-Data</h3>
