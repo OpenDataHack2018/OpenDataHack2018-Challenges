@@ -6,6 +6,7 @@
 
 <b>Brief Guidelines:</b>
 <ol>
+<li>Explore our <a href="https://github.com/OpenDataHack2018/Available-Open-Data">Hackathon Catalogue of Open Climate Data and Services</a> - we have regrouped everything into one place to make it easier for you to find your way around the wealth of open data and services!
 <li><a href="https://github.com/OpenDataHack2018/OpenDataHack2018-Brainstorming/issues">Submit your idea or challenge as an Issue</a> in the OpenDataHack2018-Challenges repository
 <li>Briefly <b>describe your idea</b> using the <a href="https://github.com/OpenDataHack2018/OpenDataHack2018-Challenges/blob/master/Issue-Template">Issue Template</a> provided to ensure all details needed are given
 <li><b>Describe what you need</b> to realise the challenge e.g. how many people needed in the team, role description of team members, complimentary skill sets needed — e.g coders/software developers, designer (graphics/engineer), technologist, a project manager, an innovator), interests, etc....
@@ -35,6 +36,6 @@ Can you think of any funky and catchy ideas with climate data? Do you want to he
 </ul>
 <P><hr></P>
 <P>
-For full details on the event and <b>Registration (by 20th May 2018)</b>, go to: <a href="http://events.ecmwf.int.e/OpenDataHack2018">http://events.ecmwf.int.e/OpenDataHack2018</a></P>
+For full details on the event, go to: <a href="http://events.ecmwf.int.e/OpenDataHack2018">http://events.ecmwf.int.e/OpenDataHack2018</a></P>
 
 <p>We want to see you do amazing things with Copernicus open data at <a href="http://www.ecmwf.int">ECMWF</a>. So bring it on!!!</p>
