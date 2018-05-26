@@ -11,6 +11,7 @@
 <li>Briefly <b>describe your idea</b> using the <a href="https://github.com/OpenDataHack2018/OpenDataHack2018-Challenges/blob/master/Issue-Template">Issue Template</a> provided to ensure all details needed are given
 <li><b>Describe what you need</b> to realise the challenge e.g. how many people needed in the team, role description of team members, complimentary skill sets needed — e.g coders/software developers, designer (graphics/engineer), technologist, a project manager, an innovator), interests, etc....
 <li>A moderator will then label your Issue to facilitate other participants finding your proposed challenge.
+<li>For those who are just browsing through the challenges so far submitted, there is no formal way of signing up for a challenge except by adding a comment to the challenge submitter to claim a position within the team!
 </ol>
 
 Your ideas and challenges should fall within one of the following categories:
